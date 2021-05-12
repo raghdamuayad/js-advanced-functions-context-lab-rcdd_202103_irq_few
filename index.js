@@ -22,12 +22,7 @@ let allWagesFor = function () {
 }
 
 
-S Advanced Functions: Context Lab
-You sent Today at 17:33
-timeInEvents: [],
- timeOutEvents: []
-  }
-}
+
 
 let createEmployeeRecords = function(employeeRecordData){
 return employeeRecordData.map(function(record){
