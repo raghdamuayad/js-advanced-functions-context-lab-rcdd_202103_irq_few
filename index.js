@@ -83,6 +83,3 @@ return employees.reduce(function(memo, rec){
 return memo + allWagesFor.call(rec)
   }, 0)
 }
-
-
-
